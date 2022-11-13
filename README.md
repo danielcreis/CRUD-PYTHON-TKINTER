@@ -27,7 +27,14 @@ Requisitos Funcionais: As atividades de CRUD(Create, Read, Update e Delete) deve
   -Gerenciador de Banco de Dados PostgreSQL.
   -IDE a critério do deesenvolvedor (Pycharm, Vscode, Syder, e etc).
   
+  
   ![Sem título](https://user-images.githubusercontent.com/75449506/201523977-a76e04b1-1309-4563-883a-daf6227a8e80.png)
+  
+  4ª. Fase de Transição: Aqui, são feitos os processamentos de dados, testes, mudança para o novo sistema e treinamento do Usuário.
+  
+  
+  ![Sem título](https://user-images.githubusercontent.com/75449506/201524315-9b8e8e52-8b6d-4de3-961c-28cfd0966849.png)
+
 
 
 
