@@ -27,6 +27,7 @@ Requisitos Funcionais: As atividades de CRUD(Create, Read, Update e Delete) deve
   -Gerenciador de Banco de Dados PostgreSQL.
   -IDE a critério do deesenvolvedor (Pycharm, Vscode, Syder, e etc).
   
-  
+  ![Sem título](https://user-images.githubusercontent.com/75449506/201523977-a76e04b1-1309-4563-883a-daf6227a8e80.png)
+
 
 
