@@ -12,9 +12,9 @@ Interfaces de Software: O software permite cadastras em BD PostgreSQL os dados i
 
 Requisitos Funcionais: As atividades de CRUD(Create, Read, Update e Delete) devem ser tarefas funcionais: 
   
-• O usuário deve ser capaz de cadastrar o produto; /br
-• O usuário deve ser capaz de ler os dados de um produto; /br
-• O usuário deve ser capaz de atualizar os dados de um produto; /br
-• O usuário deve ser capaz de excluir um produto. /br
+• O usuário deve ser capaz de cadastrar o produto; <br/>
+• O usuário deve ser capaz de ler os dados de um produto; <br/>
+• O usuário deve ser capaz de atualizar os dados de um produto;  <br/>
+• O usuário deve ser capaz de excluir um produto.  <br/>
 
 2ª. Fase: Design de Interface do Sistema -> 
