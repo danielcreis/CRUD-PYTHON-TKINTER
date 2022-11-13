@@ -17,4 +17,16 @@ Requisitos Funcionais: As atividades de CRUD(Create, Read, Update e Delete) deve
 • O usuário deve ser capaz de atualizar os dados de um produto;  <br/>
 • O usuário deve ser capaz de excluir um produto.  <br/>
 
-2ª. Fase: Design de Interface do Sistema -> 
+2ª. Fase: Modelagem de Dados e de Negócios -> A criação de uma interface de usuário tem como meta ser um meio de interação para atendeer às necessidades de modo prático. Portato, exige do projetista a capacidade de antecipar comportamentos e um conhecimento das diversas soluções existentes quee tornem a construção do projeto viável.
+2.1 O principal modelo de negócios do Sistema é cadastras produtos e preços. As atividades de CRUD devem ser executadas no sistema.
+
+![Sem título](https://user-images.githubusercontent.com/75449506/201523192-5e27a8f5-5124-408a-820f-29953aca86ae.png)
+
+3ª. Fase: Desenvolvimento do Sistema -> O processo do desenvolvimento do Sistema de Cadastro terão as ferramentees utilizadas:
+  -Framework Tkinter Python.
+  -Gerenciador de Banco de Dados PostgreSQL.
+  -IDE a critério do deesenvolvedor (Pycharm, Vscode, Syder, e etc).
+  
+  
+
+
